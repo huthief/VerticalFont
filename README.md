@@ -1,5 +1,6 @@
-# VerticalFont
-偽直排字型
+# VerticalFont偽直排
+為了電子書閱讀器直排閱讀而製作的偽直排字型。
+一切要感謝原字型提供者。
 
 ## 源泉圓體（偽直排）
 「H-源泉圓體」是基於[源泉圓體](https://github.com/ButTaiwan/gensen-font)的開放原始碼中文字型。
